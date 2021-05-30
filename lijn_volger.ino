@@ -8,8 +8,8 @@
 
 
 char auth[] = "tP0PSVx_xCPM6SCXVaE8wCaqHKxlcfIR";
-char ssid[] = "SSD_C3150";
-char pass[] = "ssdsolo1238";
+char ssid[] = "netwerk";
+char pass[] = "password";
 
 BlynkTimer timer;
 
